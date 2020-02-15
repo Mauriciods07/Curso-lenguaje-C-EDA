@@ -1,0 +1,7 @@
+Presentación
+
+Soy Mauricio Díaz Segura
+Estudiante de Ingeniería Eléctrica y Electrónica
+He programado en C y tengo nociones de Python, también.
+Espero poder salir del curso con las habilidades necesarias de programación que estipula el temario de la clase.
+Asimismo, tengo curiosidad por aprender otros lenguajes como Java, R o Matlab.
