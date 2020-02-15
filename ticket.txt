@@ -1,0 +1,12 @@
+---¡Restaurante 'El Restaurador'!---
+
+Mucha carne	$60
+Juguito		$32
+Flan		$15
+
+Total:		$107
+
+¡¡¡Muchas gracias por su preferencia!!!
+Atendió: Mauricio Díaz Segura
+Fecha: Sat Feb 15 13:42:30 2020
+
